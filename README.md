@@ -2,6 +2,19 @@
   <img src="https://github.com/aknethstudio-stack.png" width="120" alt="Kate's GitHub avatar" style="border-radius:50%">
 </p>
 
+<p align="center">
+  <!-- GitHub Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=aknethstudio-stack&style=for-the-badge&color=blue" alt="Profile views" />
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/aknethstudio-stack?style=for-the-badge" alt="GitHub followers" />
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/aknethstudio-stack/aknethstudio-stack?style=for-the-badge" alt="Repo stars" />
+  <!-- GitHub Last Commit -->
+  <img src="https://img.shields.io/github/last-commit/aknethstudio-stack/aknethstudio-stack?style=for-the-badge" alt="Last Commit" />
+  <!-- Code Quality -->
+  <img src="https://img.shields.io/badge/code%20quality-A+-brightgreen?style=for-the-badge" alt="Code Quality" />
+</p>
+
 # 👋 Hi, I'm Kate (aknethstudio-stack)
 
 **Front-End Developer | Passionate about Modern Web Technologies**
@@ -50,7 +63,6 @@ I value clean code, intuitive design, and continuous learning.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aknethstudio-stack&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aknethstudio-stack&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aknethstudio-stack&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=aknethstudio-stack&color=blue)
 
 ---
 
