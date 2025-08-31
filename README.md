@@ -60,9 +60,11 @@ I value clean code, intuitive design, and continuous learning.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aknethstudio-stack&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aknethstudio-stack&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aknethstudio-stack&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aknethstudio-stack&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aknethstudio-stack&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aknethstudio-stack&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
 
 ---
 
